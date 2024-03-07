@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="N2___2º_Bimestre__EC3_.Veiculo" Collapsed="true">
+    <Position X="10.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABEAIAAAAAAAAAAAEAAAAAAAAAAAIAAAAAAAIAAE=</HashCode>
+      <FileName>Veiculo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="N2___2º_Bimestre__EC3_.Trem" Collapsed="true">
+    <Position X="4" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgEAAMAAAAAAAAgAAAAAAAAAAAAABAAAAAAAAAAAE=</HashCode>
+      <FileName>Trem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="N2___2º_Bimestre__EC3_.Pedagio" Collapsed="true">
+    <Position X="24" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAgAAAAIAQAAAAAAAgAAAAIAAAAAAAQAAA=</HashCode>
+      <FileName>Pedagio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="N2___2º_Bimestre__EC3_.Onibus" Collapsed="true">
+    <Position X="15.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgEAAIACAAAAABgAAAAAAAAAAAAABAAAAAAAAAAAE=</HashCode>
+      <FileName>Onibus.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="N2___2º_Bimestre__EC3_.NavioGuerra" Collapsed="true">
+    <Position X="17.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAIAAAAAAAAAAACAAAAAAAAAAAAAACAAAAAAAE=</HashCode>
+      <FileName>NavioGuerra.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="N2___2º_Bimestre__EC3_.Navio" Collapsed="true">
+    <Position X="1.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAIAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Navio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="N2___2º_Bimestre__EC3_.Moto" Collapsed="true">
+    <Position X="6.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAIACAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Moto.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="N2___2º_Bimestre__EC3_.Modelo" Collapsed="true">
+    <Position X="22.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAQAAAAAQBAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Modelo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="N2___2º_Bimestre__EC3_.Marca" Collapsed="true">
+    <Position X="24" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Marca.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="N2___2º_Bimestre__EC3_.Carro" Collapsed="true">
+    <Position X="10.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgEAAIACABAAAAgAAAAAAAAAAAAABAAAgAAAAAAAE=</HashCode>
+      <FileName>Carro.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="N2___2º_Bimestre__EC3_.CaminhaoCegonheira" Collapsed="true">
+    <Position X="19.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEgAAAAAAgAAAAAAAAABAAgAAAAAAAAAAQA=</HashCode>
+      <FileName>CaminhaoCegonheira.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="N2___2º_Bimestre__EC3_.Caminhao" Collapsed="true">
+    <Position X="19.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgECAIACAAAAEAggAAAAAAAAAAEABAAAAAAAAAAAE=</HashCode>
+      <FileName>Caminhao.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="N2___2º_Bimestre__EC3_.BancoDados" Collapsed="true">
+    <Position X="22.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAQAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BancoDados.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="N2___2º_Bimestre__EC3_.AviaoGuerra" Collapsed="true">
+    <Position X="8.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAEAIAAAAAAAAAAAAAAAAAQAAAAAAAAGAAAgAAAE=</HashCode>
+      <FileName>AviaoGuerra.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="N2___2º_Bimestre__EC3_.Aviao" Collapsed="true">
+    <Position X="13" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgEAAIAAAAAAAAgAAAAAAAAQAAAABAAAEAAAgAAAE=</HashCode>
+      <FileName>Aviao.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="N2___2º_Bimestre__EC3_.IPagarPedagio" Collapsed="true">
+    <Position X="22.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IPagarPedagio.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="N2___2º_Bimestre__EC3_.IAtacar" Collapsed="true">
+    <Position X="22.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>IAtacar.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="N2___2º_Bimestre__EC3_.ILimpador" Collapsed="true">
+    <Position X="24" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>ILimpador.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
